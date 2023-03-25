@@ -1,5 +1,5 @@
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&vCenter=true&lines=Hi%2C+I'm+a+Sherif+Talaat.;Nice+to+meet+you+:D)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&vCenter=true&lines=Hi%2C+I'm+Sherif+Talaat.;Nice+to+meet+you+:D)](https://git.io/typing-svg)
 
 I'm a .Net Full Stack Developer,
 enthusiastic about software engineering topics and eager to learn.
