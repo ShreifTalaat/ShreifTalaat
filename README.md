@@ -15,7 +15,7 @@ enthusiastic about software engineering topics and eager to learn.
 		<img
 			alt="followers"
 			title="Follow me on Github"
-			src="https://img.shields.io/github/followers/mostafatalaat770?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"
+			src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
 	/></a>
 	<a href="mailto:shreiftalaat14@gmail.com">
 		<img
